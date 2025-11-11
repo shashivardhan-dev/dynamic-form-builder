@@ -1,0 +1,9 @@
+
+/backend/node_modules
+/backend/.env
+
+/frontend/.parcel-cache
+/frontend/dist
+/frontend/node_modules
+
+.vscode/
