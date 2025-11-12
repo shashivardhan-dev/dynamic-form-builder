@@ -2,6 +2,10 @@
 
 A small  Dynamic Form Builder web app with an admin panel to create forms and fields (with conditional nested fields), and a public renderer to submit responses. Submissions are stored in MongoDB with versioned schemas. Exports to CSV supported.
 
+## Demo
+
+![Demo](./Demo.mp4)
+
 ## Quick Start
 
 ### 1) Backend
